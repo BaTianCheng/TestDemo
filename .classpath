@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.7.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.7.jar"/>
 	<classpathentry kind="lib" path="lib/jetty-all-7.6.9.v20130131.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-core-2.5.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
